@@ -5,5 +5,5 @@
   "type": "module",
   "description": "Minimal strategic website for Kharan Krishnaraj — Brand Strategist.",
   "scripts": {"check": "node scripts/validate.mjs"},
-  "engines": {"node": ">=20"}
+  "engines": {"node": "20.x"}
 }
